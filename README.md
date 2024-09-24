@@ -1,5 +1,5 @@
-# Melanoma-Detection-Assignment
-Melanoma Detection Assignment
+# Melanoma-Detectio
+Melanoma Detection
 # Melanoma Skin Cancer Detection
 This project aims to develop an automated classification system for detecting melanoma skin cancer using image processing techniques. Melanoma is the deadliest form of skin cancer, and early detection is crucial for successful treatment. The project utilizes Convolutional Neural Networks (CNN) to classify skin lesions and improve the diagnostic process.
 
